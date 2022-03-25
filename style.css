@@ -8,7 +8,7 @@ body {
    display: grid;
    grid-template-rows: 100px 8fr 5 fr 4fr 5fr 80px;
    grid-template-columns: repeat(6, 1fr);
-   gap: 20px;
+   gap: 15px;
   }
   
   header {
